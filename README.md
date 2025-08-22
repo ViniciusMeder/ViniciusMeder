@@ -1,13 +1,17 @@
-# [Vinicius Medeiros]
-<img src="https://i.pinimg.com/originals/83/e3/60/83e360422f93683d4c2470c58f48e0d2.gif" width="1000px">
+# 👋 Hi, I’m [Vinicius Medeiros](https://github.com/ViniciusMeder)
 
-Eu sou <strong>Vinicius Medeiros de França</strong>, <strong>Estudante de ADS no Senac, Recife/PE</strong> 👨🏻‍💻 
+##  About Me
+Hi there! I'm a student passionate about programming and technology.  
+- 🌱 Currently learning **Python**  
+- 🎓 Studying at **Senac** (Systems Analysis and Development / related field)  
+- 💬 I speak **Portuguese**, **English**, and **Japanese**  
+- 💡 Interested in software development, open-source, and building cool projects  👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
-- 💬 Pergunte-me sobre: <strong>Futebol e Surf</strong>
-- 📣 Nós podemos falar em: <strong>Português, Inglês e Japonês</strong>
 
 <div align="center">
+
+### 
+
 
   <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
