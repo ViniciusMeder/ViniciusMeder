@@ -1,11 +1,11 @@
 # [Vinicius Medeiros]
-<img src="https://i.pinimg.com/originals/83/e3/60/83e360422f93683d4c2470c58f48e0d2.gif" width="700px">
+<img src="https://i.pinimg.com/originals/83/e3/60/83e360422f93683d4c2470c58f48e0d2.gif" width="1000px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Vinicius Medeiros de França</strong>, <strong>Estudante de ADS no Senac, Recife/PE</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python & </strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 💬 Pergunte-me sobre: <strong>Futebol e Surf</strong>
+- 📣 Nós podemos falar em: <strong>Português, Inglês e Japonês</strong>
 
 <div align="center">
 
